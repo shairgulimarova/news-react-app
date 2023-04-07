@@ -1,0 +1,17 @@
+*,
+::after,
+::before{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding:0; 
+}
+
+.container{
+    max-width: 1100px;
+    background-color: rgb(246, 246, 239);
+    margin: 0 auto;
+    padding:10px; 
+}
